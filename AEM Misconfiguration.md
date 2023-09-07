@@ -1,6 +1,6 @@
-#####Vvideo
+### Video
 https://www.youtube.com/watch?v=EQNBQCQMouk
-##### method
+### Method
 - collect sub domain 
 - use nuclei/nuclei-templates/technologies/tech-detect.yaml to identifiy aem 
 - Python3 ./aem_hacker.py –u https://example — host localhost
@@ -18,7 +18,7 @@ python3 aem_server.py
 
 ```
 
-##### Aem Dispatcher Bypasses
+### Aem Dispatcher Bypasses
 [ ] bypassing cve 2016-0957
 ```
 https://aemsite/bin/querybuilder.json              => blocked
